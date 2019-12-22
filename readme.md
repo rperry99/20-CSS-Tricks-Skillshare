@@ -5,7 +5,7 @@ This repo is from all of the different CSS Tricks Aga Naplocha, from Skillshare,
 ## Trick List
 
 1. Multiple Backgrounds - Two backgrounds in the header
-2. Viewport Width and Height
+2. Viewport Width and Height - Changed the height of the header to use vh
 3. Font Shorthand
 4. Text Stroke
 5. Drop Shadow

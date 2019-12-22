@@ -155,7 +155,7 @@ p.intro:first-letter {
 /*multiple backgrounds + viewport height*/
 
 header {
-  height: 800px;
+  height: 80vh; /* Changed this line from 800px*/
   text-align: center;
   position: relative;
   margin-bottom: 50px;
