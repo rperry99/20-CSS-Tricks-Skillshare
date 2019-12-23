@@ -8,7 +8,7 @@ This repo is from all of the different CSS Tricks Aga Naplocha, from Skillshare,
 2. Viewport Width and Height - Changed the height of the header to use vh
 3. Font Shorthand - Shortened the font property in .divider h2
 4. Text Stroke - Changed the text of the header to have a text-stroke
-5. Drop Shadow
+5. Drop Shadow - Add drop shadow to plant and hand in header
 6. Filter Blur
 7. Character unit (ch)
 8. First Letter
