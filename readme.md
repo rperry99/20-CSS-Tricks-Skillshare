@@ -15,7 +15,7 @@ This repo is from all of the different CSS Tricks Aga Naplocha, from Skillshare,
 9. Line Clamp - Truncate lines of text within a box.
 10. Numbered List - Add custom numbers to a number list
 11. Truncate text - Truncate text with overflow, text-overflow, and white-space properties
-12. Gradient text
+12. Gradient text - Add a gradient to the text so the text color is a gradient
 13. Cross Text Selection
 14. Conic Gradient
 15. Word break tag
