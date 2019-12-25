@@ -225,6 +225,7 @@ h2.contact-heading {
   /*Text Gradient*/
   background: radial-gradient(#ffbc00, #ff65aa);
   -webkit-background-clip: text;
+  background-clip: text;
   -webkit-text-fill-color: transparent;
   -webkit-text-stroke: 3px;
 }
