@@ -293,6 +293,12 @@ ol.numbered-list li:last-child {
   margin-bottom: 50px;
 }
 
+.truncate {
+  overflow: hidden;
+  text-overflow: ellipsis;
+  white-space: nowrap;
+}
+
 /*styling numbers in the numbered list*/
 
 ol.numbered-list > li:before {
