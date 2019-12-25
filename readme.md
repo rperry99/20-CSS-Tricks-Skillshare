@@ -12,8 +12,8 @@ This repo is from all of the different CSS Tricks Aga Naplocha, from Skillshare,
 6. Filter Blur - Add blur to the plant images
 7. Character unit (ch) - Restrict the width of text using the ch unit
 8. First Letter - Style only the first letter of the paragraph.
-9. Line Clamp
-10. Numbered List
+9. Line Clamp - Truncate lines of text within a box.
+10. Numbered List - Add custom numbers to a number list
 11. Truncate text
 12. Gradient text
 13. Cross Text Selection
