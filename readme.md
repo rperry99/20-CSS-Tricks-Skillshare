@@ -18,7 +18,7 @@ This repo is from all of the different CSS Tricks Aga Naplocha, from Skillshare,
 12. Gradient text - Add a gradient to the text so the text color is a gradient
 13. Cross Text Selection - Change the color of the text highlight.
 14. Conic Gradient - Create a piechart using conic-gradient
-15. Word break tag
+15. Word break tag - Break up long words using `<wbr>` HTML tag.
 16. Custom Bullet Points
 17. Object Fit
 18. Column Count
