@@ -16,7 +16,7 @@ This repo is from all of the different CSS Tricks Aga Naplocha, from Skillshare,
 10. Numbered List - Add custom numbers to a number list
 11. Truncate text - Truncate text with overflow, text-overflow, and white-space properties
 12. Gradient text - Add a gradient to the text so the text color is a gradient
-13. Cross Text Selection
+13. Cross Text Selection - Change the color of the text highlight.
 14. Conic Gradient
 15. Word break tag
 16. Custom Bullet Points
