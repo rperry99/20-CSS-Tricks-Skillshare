@@ -362,6 +362,8 @@ ol.numbered-list > li:before {
   display: flex;
   justify-content: center;
   align-items: center;
+  background: conic-gradient(#ffb50e 0% 44%, #a6c3d1 44% 75%, #ff832e 75% 100%);
+  border-radius: 100%;
 }
 
 .piechart h2 {
