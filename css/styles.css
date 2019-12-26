@@ -344,6 +344,14 @@ ol.numbered-list > li:before {
 /*custom bullet points*/
 
 .list li::before {
+  content: "";
+  position: absolute;
+  left: 0;
+  top: 22px;
+  height: 45px;
+  width: 45px;
+  border-radius: 50%;
+  background: #f3b70f;
 }
 
 /*object fit class for the images*/
