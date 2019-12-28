@@ -23,4 +23,4 @@ This repo is from all of the different CSS Tricks Aga Naplocha, from Skillshare,
 17. Object Fit - Adjusts image to make it look better at different sizes.
 18. Column Count - Create columns with the `column-count:` property.
 19. Adjacent Sibling Combinator - Style an immediate sibling within the same parent
-20. General Sibling Combinator
+20. General Sibling Combinator - Style all siblings of an element
