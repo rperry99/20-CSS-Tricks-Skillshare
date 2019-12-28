@@ -19,8 +19,8 @@ This repo is from all of the different CSS Tricks Aga Naplocha, from Skillshare,
 13. Cross Text Selection - Change the color of the text highlight.
 14. Conic Gradient - Create a piechart using conic-gradient
 15. Word break tag - Break up long words using `<wbr>` HTML tag.
-16. Custom Bullet Points
-17. Object Fit
+16. Custom Bullet Points - Add custom bullet points replacing the normal ones.
+17. Object Fit - Adjusts image to make it look better at different sizes.
 18. Column Count
 19. Adjacent Sibling Combinator
 20. General Sibling Combinator
