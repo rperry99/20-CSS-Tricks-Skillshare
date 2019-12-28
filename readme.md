@@ -22,5 +22,5 @@ This repo is from all of the different CSS Tricks Aga Naplocha, from Skillshare,
 16. Custom Bullet Points - Add custom bullet points replacing the normal ones.
 17. Object Fit - Adjusts image to make it look better at different sizes.
 18. Column Count - Create columns with the `column-count:` property.
-19. Adjacent Sibling Combinator
+19. Adjacent Sibling Combinator - Style an immediate sibling within the same parent
 20. General Sibling Combinator
