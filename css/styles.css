@@ -424,6 +424,7 @@ span.ig {
 /*column count*/
 
 .outro {
+  column-count: 2;
 }
 
 /*calc, vh and writing mode*/
